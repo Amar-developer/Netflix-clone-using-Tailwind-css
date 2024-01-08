@@ -10,7 +10,7 @@ import { getFirestore } from "firebase/firestore";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyCC-DsKh2j9gTVZmdzFC25MA5yz7zChoZA",
+  apiKey: "your api add",
   authDomain: "netflix-app-9c714.firebaseapp.com",
   projectId: "netflix-app-9c714",
   storageBucket: "netflix-app-9c714.appspot.com",
